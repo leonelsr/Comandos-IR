@@ -1,0 +1,43 @@
+=============================================
+TV Sony - Modelo KDL32EX525
+=============================================
+- Ligar: A90
+
+- Voltar: 62E9
+- Options: 36E9
+- Guide: 710
+- Diplay: 5D0
+- Syn Menu: D58
+- OK: A70
+- Input: A50
+
+- Seta Pra Cima: 2F0
+- Seta Pra Baixo: AF0
+- Seta Esquerda: 2D0
+- Seta Direita: CD0
+
+- Menu: 70
+- Btn Vermelho: 52E9
+- Btn Verde: 32E9
+- Btn Amarelo: 72E9
+- Btn Roxo: 12E9
+
+
+- Volume Up: 490
+- Volume Down: C90
+- Mudo: 290
+
+- Canal Up: 90
+- Canal Down: 890
+- Jump:  DD0
+
+0 - 910
+1 - 10
+2 - 810
+3 - 410
+4 - C10
+5 - 210
+6 - A10
+7 - 610
+8 - E10
+9 - 110

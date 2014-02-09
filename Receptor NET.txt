@@ -1,0 +1,53 @@
+========================================================
+Receptor NET Digital HD HDMI - HDC74X1
+========================================================
+- Liga: E17A24DB
+- Desliga: E17A24DB
+- Portal: E17A24DB  
+- Moisaico: E17A847B
+- Info: E17AC837
+- Volume Up: E17AB04F
+- Volume Down:  E17A708F
+- Mudo: E17AF807
+
+- Canal Up: E17A08F7
+- Canal Down: E17A58A7
+- Voltar: E17A8877
+- Sair: E17A50AF
+
+- NetTV: E17A28D7
+- Seta Pra Cima: E17AD02F
+- Seta Pra Baixo: E17A30CF
+- Seta Esquerda: E17AD827
+- Seta Direita: E17A38C7
+- OK: E17AA857
+
+- iTV: E17A6897
+- Audio: E17AE817
+- NOW: E17A7887
+- Legenda: E17A18E7
+- Mensagens: E17A9867
+
+- 0: E17A00FF
+- 1: E17A807F 
+- 2: E17A40BF
+- 3: E17AC03F
+- 4: E17A20DF
+- 5: E17AA05F
+- 6: E17A609F
+- 7: E17AE01F
+- 8: E17A10EF
+- 9: E17A906F
+
+- Menu: E17AC43B
+- Favoritos: E17AB847
+- Voltar Filme: E17A2CD3
+- Play VIdeo: E17A6C93
+- Passar Filmes: E17AAC53
+- Replay: E17AEC13
+- Stop: E17A4CB3
+- Gravar: E17ACC33
+
+- PPV: E17A14EB
+- VOD: E17A9C63
+- Musica: E17A04FB

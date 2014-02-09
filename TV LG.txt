@@ -1,0 +1,53 @@
+==================================================================
+TV LG - Modelo 32LH35FD
+==================================================================
+Liga/Desliga: Decoded NEC: 20DF10EF (32 bits)
+Input: NEC: 20DFD02F (32 bits)
+Menu: Decoded NEC: 20DFC23D (32 bits)
+Q. Menu: Decoded NEC: 20DFA25D (32 bits)
+Guide: Decoded NEC: 20DFD52A (32 bits)
+
+Seta Cima: Decoded NEC: 20DF02FD (32 bits)
+Seta Baixo: Decoded NEC: 20DF827D (32 bits)
+Seta Esquerda: Decoded NEC: 20DF609F (32 bits)
+Seta Direita: Decoded NEC: 20DFE01F (32 bits)
+
+Return: Decoded NEC: 20DF14EB (32 bits)
+Info: Decoded NEC: 20DF55AA (32 bits)
+AV Mode: Decoded NEC: 20DF0CF3 (32 bits)
+
+Volume Up: Decoded NEC: 20DF40BF (32 bits)
+Volume Down: Decoded NEC: 20DFC03F (32 bits)
+Canal Up: Decoded NEC: 20DF00FF (32 bits)
+Canal Down: Decoded NEC: 20DF807F (32 bits)
+Fav: Decoded NEC: 20DF7887 (32 bits)
+Mute: Decoded NEC: 20DF906F (32 bits)
+
+1: Decoded NEC: 20DF8877 (32 bits)
+2: Decoded NEC: 20DF48B7 (32 bits)
+3: Decoded NEC: 20DFC837 (32 bits)
+4: Decoded NEC: 20DF28D7 (32 bits)
+5: Decoded NEC: 20DFA857 (32 bits)
+6: Decoded NEC: 20DF6897 (32 bits)
+7: Decoded NEC: 20DFE817 (32 bits)
+8: Decoded NEC: 20DF18E7 (32 bits)
+9: Decoded NEC: 20DF9867 (32 bits)
+0: Decoded NEC: 20DF08F7 (32 bits)
+
+List: Decoded NEC: 20DF32CD (32 bits)
+Q. View: Decoded NEC: 20DF58A7 (32 bits)
+
+Vermelho: Decoded NEC: 20DF4EB1 (32 bits)
+Verde: Decoded NEC: 20DF8E71 (32 bits)
+Amarelo: Decoded NEC: 20DFC639 (32 bits)
+Azul: Decoded NEC: 20DF8679 (32 bits)
+
+
+Record: Decoded NEC: 20DFBD42 (32 bits)
+Stop: Decoded NEC: 20DF8D72 (32 bits)
+Play: Decoded NEC: 20DF0DF2 (32 bits)
+Pause: Decoded NEC: 20DF5DA2 (32 bits)
+
+MPLink: Decoded NEC: 20DF7E81 (32 bits)
+<<: Decoded NEC: 20DFF10E (32 bits)
+>>: Decoded NEC: 20DF718E (32 bits)

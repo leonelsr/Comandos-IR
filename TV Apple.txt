@@ -1,0 +1,12 @@
+===================================================
+Apple TV 
+===================================================
+
+Seta Cima: Decoded NEC: 77E1D0EE (32 bits)
+Seta Baixo: Decoded NEC: 77E1B0EE (32 bits)
+Seta Direita: Decoded NEC: 77E1E0EE (32 bits)
+Seta Esquerda: Decoded NEC: 77E1BAEE (32 bits)
+OK: NEC: 77E1BAEE (32 bits)
+
+Menu: Decoded NEC: 77E140EE (32 bits)
+Play/Pause: Decoded NEC: 77E17AEE (32 bits)
